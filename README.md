@@ -23,7 +23,7 @@ Main features:
 
 Operating system: Any
 
-How to use: Visit http://cgpacalculator.com with your browser.
+How to use: Visit https://jebatahsinifty.github.io/Restaurant-Management-System/ with your browser.
 
 Written in: html, JavaScript, CSS, PHP
 
