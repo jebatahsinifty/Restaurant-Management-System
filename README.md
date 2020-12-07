@@ -13,7 +13,7 @@ Main features:
 - Admin Panel: 
 	  Admin can login
 	  Add or remove employees
-	  Update their salaries
+	  Update their status information
 - Employee panel: 
 	  Employee can change food menu and price
 - Billing System: 
