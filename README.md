@@ -11,15 +11,15 @@ Type of app: Web application
 Main features:
 
 - Admin Panel: 
-	  admin can view and update food menu
-	  admin can see order details and status
-	  admin can view customer issues
-	  admin can add & update users
+	  #admin can view and update food menu
+	  #admin can see order details and status
+	  #admin can view customer issues
+	  #admin can add & update users
 - customer panel: 
-	 customers can make orders
-	 customers can see their order details and status
-	 customer can address their issues
-	 customers can see and edit their profile
+	  #customers can make orders
+	  #customers can see their order details and status
+	  #customer can address their issues
+	  #customers can see and edit their profile
 	 
 
 Operating system: Any
