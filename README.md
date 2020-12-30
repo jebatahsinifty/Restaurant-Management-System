@@ -32,6 +32,6 @@ Tools/framework used: Sublime text editor, Visual Studio Code
 
 Developers: 
 Jeba Tahsin Ifty (1620389042) [CSE327 Section 8]
-Shuva Chowdhury (1731245642) [CSE327 Section 8] 
+Shuva Chowdhury (1731245642) [CSE327 Section 8]  
 
 ################################################################
