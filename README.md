@@ -11,15 +11,16 @@ Type of app: Web application
 Main features:
 
 - Admin Panel: 
-	  Admin can login
-	  Add or remove employees
-	  Update their status information
-- Employee panel: 
-	  Employee can change food menu and price
-- Billing System: 
-	  Employee can create customer’s bill
-	  Calculate total price
-	  Print the bill
+	  admin can view and update food menu
+	  admin can see order details and status
+	  admin can view customer issues
+	  admin can add & update users
+- customer panel: 
+	 customers can make orders
+	 customers can see their order details and status
+	 customer can address their issues
+	 customers can see and edit their profile
+	 
 
 Operating system: Any
 
