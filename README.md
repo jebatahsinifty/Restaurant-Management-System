@@ -4,7 +4,7 @@
 
 App name: Restaurant management system.
 
-Description: A Restaurant management system for managing employees, food menu and customer bills.
+Description: A Restaurant management system for ordering food and managing customer bills
 
 Type of app: Web application
 
